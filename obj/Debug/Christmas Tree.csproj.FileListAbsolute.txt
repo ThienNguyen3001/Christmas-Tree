@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\Visual Studio 2022\Christmas Tree\bin\Debug\Christmas Tree.exe.config
+C:\Users\Admin\Documents\Visual Studio 2022\Christmas Tree\bin\Debug\Christmas Tree.exe
+C:\Users\Admin\Documents\Visual Studio 2022\Christmas Tree\bin\Debug\Christmas Tree.pdb
+C:\Users\Admin\Documents\Visual Studio 2022\Christmas Tree\obj\Debug\Christmas Tree.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2022\Christmas Tree\obj\Debug\Christmas Tree.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2022\Christmas Tree\obj\Debug\Christmas Tree.exe
+C:\Users\Admin\Documents\Visual Studio 2022\Christmas Tree\obj\Debug\Christmas Tree.pdb
