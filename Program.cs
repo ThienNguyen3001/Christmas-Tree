@@ -156,6 +156,7 @@ namespace Christmas_Tree
         }
         static void Main(string[] args)
         {
+            Console.ReadLine();
             ConTro();
             Thread cay = new Thread(CayNoel);
             Thread nhac = new Thread(Nhac);
